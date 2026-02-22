@@ -1,6 +1,20 @@
 # 💫 About Me:
 I am an enthusiastic Computer Science graduate passionate about building AI-driven, data-centric solutions that create real-world impact.<br><br>From developing a real-time Driver Drowsiness Detection System to building an NLP-based Fake News Prediction model, I enjoy transforming data into intelligent systems.<br><br>With experience in Machine Learning, Computer Vision, Generative AI, and AI DevOps, I focus on building scalable, optimized, and deployment-ready AI applications.
 
+# 🧠 What I Work On
+
+🤖 Machine Learning & Deep Learning
+
+👁️ Computer Vision (Real-time systems with OpenCV & MediaPipe)
+
+📰 NLP Applications (Text Classification, TF-IDF, Logistic Regression)
+
+🔁 AI/ML Model Lifecycle & CI/CD Integration
+
+🧩 LLM Optimization & Prompt Engineering
+
+☁️ AWS Bedrock & SageMaker (Generative AI Systems)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushreyansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/piyush-raj-in2510) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/piyushreyansh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ReyanshPiyush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reyanshpiyush@gmail.com) 
