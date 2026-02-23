@@ -11,7 +11,7 @@ An enthusiastic Computer Science graduate passionate about building AI-driven, d
 
 🔁 AI/ML Model Lifecycle & CI/CD Integration
 
-🧩 LLM Optimization & Prompt Engineering
+🧩 LLM Optimization
 
 ☁️ AWS Bedrock & SageMaker (Generative AI Systems)
 
