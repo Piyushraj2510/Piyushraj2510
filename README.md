@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 An enthusiastic Computer Science graduate passionate about building AI-driven, data-centric solutions that create real-world impact.<br><br>From developing a real-time Driver Drowsiness Detection System to building an NLP-based Fake News Prediction model, I enjoy transforming data into intelligent systems.<br><br>With experience in Machine Learning, Computer Vision, Generative AI, and AI DevOps, I focus on building scalable, optimized, and deployment-ready AI applications.
 
 # 🧠 What I Work On
